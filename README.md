@@ -1,2 +1,2 @@
 # purecss
-Aula sobre pure.css
+Página com pure.css
